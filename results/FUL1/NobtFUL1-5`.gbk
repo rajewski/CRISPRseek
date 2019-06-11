@@ -1,0 +1,137 @@
+LOCUS       NobtFUL1-5`                     998 bp    dna     linear   UNK
+DEFINITION  CRISPRseek output for NobtFUL1-5 sequence
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     misc_bind       45..46
+                     /note="gRNAf"
+     misc_bind       74..75
+                     /note="gRNAf"
+     misc_bind       121..122
+                     /note="gRNAf"
+     misc_bind       125..126
+                     /note="gRNAf"
+     misc_bind       149..150
+                     /note="gRNAf"
+     misc_bind       180..181
+                     /note="gRNAf"
+     misc_bind       241..242
+                     /note="gRNAf"
+     misc_bind       339..340
+                     /note="gRNAf"
+     misc_bind       340..341
+                     /note="gRNAf"
+     misc_bind       400..401
+                     /note="gRNAf"
+     misc_bind       401..402
+                     /note="gRNAf"
+     misc_bind       402..403
+                     /note="gRNAf"
+     misc_bind       504..505
+                     /note="gRNAf"
+     misc_bind       509..510
+                     /note="gRNAf"
+     misc_bind       548..549
+                     /note="gRNAf"
+     misc_bind       582..583
+                     /note="gRNAf"
+     misc_bind       617..618
+                     /note="gRNAf"
+     misc_bind       689..690
+                     /note="gRNAf"
+     misc_bind       707..708
+                     /note="gRNAf"
+     misc_bind       713..714
+                     /note="gRNAf"
+     misc_bind       714..715
+                     /note="gRNAf"
+     misc_bind       721..722
+                     /note="gRNAf"
+     misc_bind       728..729
+                     /note="gRNAf"
+     misc_bind       746..747
+                     /note="gRNAf"
+     misc_bind       758..759
+                     /note="gRNAf"
+     misc_bind       778..779
+                     /note="gRNAf"
+     misc_bind       833..834
+                     /note="gRNAf"
+     misc_bind       837..838
+                     /note="gRNAf"
+     misc_bind       889..890
+                     /note="gRNAf"
+     misc_bind       899..900
+                     /note="gRNAf"
+     misc_bind       900..901
+                     /note="gRNAf"
+     misc_bind       911..912
+                     /note="gRNAf"
+     misc_bind       944..945
+                     /note="gRNAf"
+     misc_bind       956..957
+                     /note="gRNAf"
+     misc_bind       989..990
+                     /note="gRNAf"
+     misc_bind       complement(960..961)
+                     /note="gRNAr"
+     misc_bind       complement(877..878)
+                     /note="gRNAr"
+     misc_bind       complement(876..877)
+                     /note="gRNAr"
+     misc_bind       complement(859..860)
+                     /note="gRNAr"
+     misc_bind       complement(839..840)
+                     /note="gRNAr"
+     misc_bind       complement(838..839)
+                     /note="gRNAr"
+     misc_bind       complement(837..838)
+                     /note="gRNAr"
+     misc_bind       complement(783..784)
+                     /note="gRNAr"
+     misc_bind       complement(735..736)
+                     /note="gRNAr"
+     misc_bind       complement(608..609)
+                     /note="gRNAr"
+     misc_bind       complement(598..599)
+                     /note="gRNAr"
+     misc_bind       complement(590..591)
+                     /note="gRNAr"
+     misc_bind       complement(589..590)
+                     /note="gRNAr"
+     misc_bind       complement(588..589)
+                     /note="gRNAr"
+     misc_bind       complement(523..524)
+                     /note="gRNAr"
+     misc_bind       complement(451..452)
+                     /note="gRNAr"
+     misc_bind       complement(424..425)
+                     /note="gRNAr"
+     misc_bind       complement(338..339)
+                     /note="gRNAr"
+     misc_bind       complement(307..308)
+                     /note="gRNAr"
+     misc_bind       complement(306..307)
+                     /note="gRNAr"
+     misc_bind       complement(300..301)
+                     /note="gRNAr"
+     misc_bind       complement(178..179)
+                     /note="gRNAr"
+ORIGIN
+        1 atgggaagag gaagggtgca gttgaagaga attgagaaca aaattaatag gcaagttact 
+       61 ttctcaaaac gtcgatctgg tttacttaag aaagctcatg agatctctgt gctttgtgaa 
+      121 gctgaggttg gtttgattgt tttttctaca aaaggcaaac tctttgaata tgccactgat 
+      181 tcttggtacg tcttttcttt atctcttact actgtttgtt tatcattttt cttagcaatt 
+      241 aaataggaca tttttttttt ttttataaat ttatatttct taaaatatgt tcaaccagta 
+      301 cccaagtcaa aaattttaat aattttgaac atcctttgtc aatgggttac gcagagtctt 
+      361 aaaagtatat tttttaaaaa ttaataacaa aagtgcgagt gttaggggaa tgtaatgacc 
+      421 attgttttat gcttttgtct gttatcctgt atttgacttg tatctgatta tgatcaaaca 
+      481 actatcttct gatactatat atcagcatgg agaggatcct tgaaagatac gaaagatact 
+      541 catatgctga gaggaagctt gttgctacta ctgatcatag ctccccggta tgccaaaatt 
+      601 agccacatgc taatttcttt cggatttaac ttatatacat tgatcgtaaa agttctttta 
+      661 tattaatagt gcataaaagt tagtcatttc ttcggactgt gcaattaatt tggtgcaggg 
+      721 aagctggaac ctggaacatg caaaacttaa ggctagactt gaggttttac agagaaacca 
+      781 aaggtacaca taattgatct ctaaatgaat tttatgtaac atatatacat tccccttggt 
+      841 aggaacatta tctcctaaaa aatttgtttg ccctttcatt ttgacgctct gcaggcatta 
+      901 tatgggagaa gatttggact cgttaagtac gaaagaactt cagaatttgg agcaccagct 
+      961 ggattctgct cttaaactca ttcgctcaag aaaggttg
+//

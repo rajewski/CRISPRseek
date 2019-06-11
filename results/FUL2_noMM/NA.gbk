@@ -1,0 +1,881 @@
+LOCUS       NA                     10095 bp    dna     linear   UNK
+DEFINITION  CRISPRseek output for Results sequence
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     misc_bind       66..67
+                     /note="gRNAf"
+     misc_bind       74..75
+                     /note="gRNAf"
+     misc_bind       75..76
+                     /note="gRNAf"
+     misc_bind       121..122
+                     /note="gRNAf"
+     misc_bind       125..126
+                     /note="gRNAf"
+     misc_bind       149..150
+                     /note="gRNAf"
+     misc_bind       180..181
+                     /note="gRNAf"
+     misc_bind       403..404
+                     /note="gRNAf"
+     misc_bind       469..470
+                     /note="gRNAf"
+     misc_bind       470..471
+                     /note="gRNAf"
+     misc_bind       698..699
+                     /note="gRNAf"
+     misc_bind       716..717
+                     /note="gRNAf"
+     misc_bind       755..756
+                     /note="gRNAf"
+     misc_bind       761..762
+                     /note="gRNAf"
+     misc_bind       762..763
+                     /note="gRNAf"
+     misc_bind       797..798
+                     /note="gRNAf"
+     misc_bind       843..844
+                     /note="gRNAf"
+     misc_bind       902..903
+                     /note="gRNAf"
+     misc_bind       997..998
+                     /note="gRNAf"
+     misc_bind       1013..1014
+                     /note="gRNAf"
+     misc_bind       1021..1022
+                     /note="gRNAf"
+     misc_bind       1060..1061
+                     /note="gRNAf"
+     misc_bind       1061..1062
+                     /note="gRNAf"
+     misc_bind       1062..1063
+                     /note="gRNAf"
+     misc_bind       1063..1064
+                     /note="gRNAf"
+     misc_bind       1070..1071
+                     /note="gRNAf"
+     misc_bind       1071..1072
+                     /note="gRNAf"
+     misc_bind       1072..1073
+                     /note="gRNAf"
+     misc_bind       1128..1129
+                     /note="gRNAf"
+     misc_bind       1212..1213
+                     /note="gRNAf"
+     misc_bind       1215..1216
+                     /note="gRNAf"
+     misc_bind       1216..1217
+                     /note="gRNAf"
+     misc_bind       1336..1337
+                     /note="gRNAf"
+     misc_bind       1349..1350
+                     /note="gRNAf"
+     misc_bind       1350..1351
+                     /note="gRNAf"
+     misc_bind       1351..1352
+                     /note="gRNAf"
+     misc_bind       1352..1353
+                     /note="gRNAf"
+     misc_bind       1518..1519
+                     /note="gRNAf"
+     misc_bind       1519..1520
+                     /note="gRNAf"
+     misc_bind       1520..1521
+                     /note="gRNAf"
+     misc_bind       1521..1522
+                     /note="gRNAf"
+     misc_bind       1522..1523
+                     /note="gRNAf"
+     misc_bind       1523..1524
+                     /note="gRNAf"
+     misc_bind       1524..1525
+                     /note="gRNAf"
+     misc_bind       1525..1526
+                     /note="gRNAf"
+     misc_bind       1526..1527
+                     /note="gRNAf"
+     misc_bind       1527..1528
+                     /note="gRNAf"
+     misc_bind       1730..1731
+                     /note="gRNAf"
+     misc_bind       1772..1773
+                     /note="gRNAf"
+     misc_bind       1773..1774
+                     /note="gRNAf"
+     misc_bind       1822..1823
+                     /note="gRNAf"
+     misc_bind       1823..1824
+                     /note="gRNAf"
+     misc_bind       2004..2005
+                     /note="gRNAf"
+     misc_bind       2026..2027
+                     /note="gRNAf"
+     misc_bind       2390..2391
+                     /note="gRNAf"
+     misc_bind       2391..2392
+                     /note="gRNAf"
+     misc_bind       2502..2503
+                     /note="gRNAf"
+     misc_bind       2511..2512
+                     /note="gRNAf"
+     misc_bind       2524..2525
+                     /note="gRNAf"
+     misc_bind       2580..2581
+                     /note="gRNAf"
+     misc_bind       2581..2582
+                     /note="gRNAf"
+     misc_bind       2584..2585
+                     /note="gRNAf"
+     misc_bind       2592..2593
+                     /note="gRNAf"
+     misc_bind       2630..2631
+                     /note="gRNAf"
+     misc_bind       2631..2632
+                     /note="gRNAf"
+     misc_bind       2632..2633
+                     /note="gRNAf"
+     misc_bind       2772..2773
+                     /note="gRNAf"
+     misc_bind       2804..2805
+                     /note="gRNAf"
+     misc_bind       2859..2860
+                     /note="gRNAf"
+     misc_bind       2860..2861
+                     /note="gRNAf"
+     misc_bind       2861..2862
+                     /note="gRNAf"
+     misc_bind       2917..2918
+                     /note="gRNAf"
+     misc_bind       2918..2919
+                     /note="gRNAf"
+     misc_bind       3349..3350
+                     /note="gRNAf"
+     misc_bind       3350..3351
+                     /note="gRNAf"
+     misc_bind       3351..3352
+                     /note="gRNAf"
+     misc_bind       3360..3361
+                     /note="gRNAf"
+     misc_bind       3361..3362
+                     /note="gRNAf"
+     misc_bind       3383..3384
+                     /note="gRNAf"
+     misc_bind       3392..3393
+                     /note="gRNAf"
+     misc_bind       3421..3422
+                     /note="gRNAf"
+     misc_bind       3422..3423
+                     /note="gRNAf"
+     misc_bind       3426..3427
+                     /note="gRNAf"
+     misc_bind       3439..3440
+                     /note="gRNAf"
+     misc_bind       3450..3451
+                     /note="gRNAf"
+     misc_bind       3471..3472
+                     /note="gRNAf"
+     misc_bind       3474..3475
+                     /note="gRNAf"
+     misc_bind       3475..3476
+                     /note="gRNAf"
+     misc_bind       3496..3497
+                     /note="gRNAf"
+     misc_bind       3510..3511
+                     /note="gRNAf"
+     misc_bind       3524..3525
+                     /note="gRNAf"
+     misc_bind       3531..3532
+                     /note="gRNAf"
+     misc_bind       3540..3541
+                     /note="gRNAf"
+     misc_bind       3564..3565
+                     /note="gRNAf"
+     misc_bind       3565..3566
+                     /note="gRNAf"
+     misc_bind       3575..3576
+                     /note="gRNAf"
+     misc_bind       3606..3607
+                     /note="gRNAf"
+     misc_bind       3637..3638
+                     /note="gRNAf"
+     misc_bind       3662..3663
+                     /note="gRNAf"
+     misc_bind       3703..3704
+                     /note="gRNAf"
+     misc_bind       3725..3726
+                     /note="gRNAf"
+     misc_bind       3726..3727
+                     /note="gRNAf"
+     misc_bind       3739..3740
+                     /note="gRNAf"
+     misc_bind       3747..3748
+                     /note="gRNAf"
+     misc_bind       3773..3774
+                     /note="gRNAf"
+     misc_bind       3788..3789
+                     /note="gRNAf"
+     misc_bind       3789..3790
+                     /note="gRNAf"
+     misc_bind       3790..3791
+                     /note="gRNAf"
+     misc_bind       3871..3872
+                     /note="gRNAf"
+     misc_bind       3885..3886
+                     /note="gRNAf"
+     misc_bind       3906..3907
+                     /note="gRNAf"
+     misc_bind       3911..3912
+                     /note="gRNAf"
+     misc_bind       3912..3913
+                     /note="gRNAf"
+     misc_bind       4083..4084
+                     /note="gRNAf"
+     misc_bind       4129..4130
+                     /note="gRNAf"
+     misc_bind       4160..4161
+                     /note="gRNAf"
+     misc_bind       4171..4172
+                     /note="gRNAf"
+     misc_bind       4176..4177
+                     /note="gRNAf"
+     misc_bind       4188..4189
+                     /note="gRNAf"
+     misc_bind       4215..4216
+                     /note="gRNAf"
+     misc_bind       4246..4247
+                     /note="gRNAf"
+     misc_bind       4293..4294
+                     /note="gRNAf"
+     misc_bind       4300..4301
+                     /note="gRNAf"
+     misc_bind       4313..4314
+                     /note="gRNAf"
+     misc_bind       4314..4315
+                     /note="gRNAf"
+     misc_bind       4334..4335
+                     /note="gRNAf"
+     misc_bind       4335..4336
+                     /note="gRNAf"
+     misc_bind       4336..4337
+                     /note="gRNAf"
+     misc_bind       4342..4343
+                     /note="gRNAf"
+     misc_bind       4349..4350
+                     /note="gRNAf"
+     misc_bind       4367..4368
+                     /note="gRNAf"
+     misc_bind       4379..4380
+                     /note="gRNAf"
+     misc_bind       4399..4400
+                     /note="gRNAf"
+     misc_bind       4421..4422
+                     /note="gRNAf"
+     misc_bind       4448..4449
+                     /note="gRNAf"
+     misc_bind       4470..4471
+                     /note="gRNAf"
+     misc_bind       6515..6516
+                     /note="gRNAf"
+     misc_bind       6551..6552
+                     /note="gRNAf"
+     misc_bind       6581..6582
+                     /note="gRNAf"
+     misc_bind       6595..6596
+                     /note="gRNAf"
+     misc_bind       6598..6599
+                     /note="gRNAf"
+     misc_bind       6607..6608
+                     /note="gRNAf"
+     misc_bind       6628..6629
+                     /note="gRNAf"
+     misc_bind       6636..6637
+                     /note="gRNAf"
+     misc_bind       6667..6668
+                     /note="gRNAf"
+     misc_bind       6766..6767
+                     /note="gRNAf"
+     misc_bind       6767..6768
+                     /note="gRNAf"
+     misc_bind       7393..7394
+                     /note="gRNAf"
+     misc_bind       7418..7419
+                     /note="gRNAf"
+     misc_bind       7428..7429
+                     /note="gRNAf"
+     misc_bind       8869..8870
+                     /note="gRNAf"
+     misc_bind       8870..8871
+                     /note="gRNAf"
+     misc_bind       8871..8872
+                     /note="gRNAf"
+     misc_bind       8872..8873
+                     /note="gRNAf"
+     misc_bind       8873..8874
+                     /note="gRNAf"
+     misc_bind       8874..8875
+                     /note="gRNAf"
+     misc_bind       8950..8951
+                     /note="gRNAf"
+     misc_bind       9312..9313
+                     /note="gRNAf"
+     misc_bind       9370..9371
+                     /note="gRNAf"
+     misc_bind       9375..9376
+                     /note="gRNAf"
+     misc_bind       9416..9417
+                     /note="gRNAf"
+     misc_bind       9441..9442
+                     /note="gRNAf"
+     misc_bind       9452..9453
+                     /note="gRNAf"
+     misc_bind       9463..9464
+                     /note="gRNAf"
+     misc_bind       9541..9542
+                     /note="gRNAf"
+     misc_bind       9587..9588
+                     /note="gRNAf"
+     misc_bind       9676..9677
+                     /note="gRNAf"
+     misc_bind       9735..9736
+                     /note="gRNAf"
+     misc_bind       9736..9737
+                     /note="gRNAf"
+     misc_bind       9761..9762
+                     /note="gRNAf"
+     misc_bind       9815..9816
+                     /note="gRNAf"
+     misc_bind       10003..10004
+                     /note="gRNAf"
+     misc_bind       10007..10008
+                     /note="gRNAf"
+     misc_bind       10013..10014
+                     /note="gRNAf"
+     misc_bind       10019..10020
+                     /note="gRNAf"
+     misc_bind       10055..10056
+                     /note="gRNAf"
+     misc_bind       complement(10007..10008)
+                     /note="gRNAr"
+     misc_bind       complement(9801..9802)
+                     /note="gRNAr"
+     misc_bind       complement(9664..9665)
+                     /note="gRNAr"
+     misc_bind       complement(9631..9632)
+                     /note="gRNAr"
+     misc_bind       complement(9614..9615)
+                     /note="gRNAr"
+     misc_bind       complement(9512..9513)
+                     /note="gRNAr"
+     misc_bind       complement(9429..9430)
+                     /note="gRNAr"
+     misc_bind       complement(9428..9429)
+                     /note="gRNAr"
+     misc_bind       complement(9390..9391)
+                     /note="gRNAr"
+     misc_bind       complement(9389..9390)
+                     /note="gRNAr"
+     misc_bind       complement(9388..9389)
+                     /note="gRNAr"
+     misc_bind       complement(9369..9370)
+                     /note="gRNAr"
+     misc_bind       complement(9344..9345)
+                     /note="gRNAr"
+     misc_bind       complement(9340..9341)
+                     /note="gRNAr"
+     misc_bind       complement(9326..9327)
+                     /note="gRNAr"
+     misc_bind       complement(9313..9314)
+                     /note="gRNAr"
+     misc_bind       complement(9303..9304)
+                     /note="gRNAr"
+     misc_bind       complement(9010..9011)
+                     /note="gRNAr"
+     misc_bind       complement(8970..8971)
+                     /note="gRNAr"
+     misc_bind       complement(8957..8958)
+                     /note="gRNAr"
+     misc_bind       complement(8956..8957)
+                     /note="gRNAr"
+     misc_bind       complement(7462..7463)
+                     /note="gRNAr"
+     misc_bind       complement(7449..7450)
+                     /note="gRNAr"
+     misc_bind       complement(7446..7447)
+                     /note="gRNAr"
+     misc_bind       complement(7433..7434)
+                     /note="gRNAr"
+     misc_bind       complement(6794..6795)
+                     /note="gRNAr"
+     misc_bind       complement(6767..6768)
+                     /note="gRNAr"
+     misc_bind       complement(6759..6760)
+                     /note="gRNAr"
+     misc_bind       complement(6756..6757)
+                     /note="gRNAr"
+     misc_bind       complement(6718..6719)
+                     /note="gRNAr"
+     misc_bind       complement(6711..6712)
+                     /note="gRNAr"
+     misc_bind       complement(6702..6703)
+                     /note="gRNAr"
+     misc_bind       complement(6668..6669)
+                     /note="gRNAr"
+     misc_bind       complement(6630..6631)
+                     /note="gRNAr"
+     misc_bind       complement(6554..6555)
+                     /note="gRNAr"
+     misc_bind       complement(6548..6549)
+                     /note="gRNAr"
+     misc_bind       complement(6538..6539)
+                     /note="gRNAr"
+     misc_bind       complement(6527..6528)
+                     /note="gRNAr"
+     misc_bind       complement(4965..4966)
+                     /note="gRNAr"
+     misc_bind       complement(4849..4850)
+                     /note="gRNAr"
+     misc_bind       complement(4839..4840)
+                     /note="gRNAr"
+     misc_bind       complement(4836..4837)
+                     /note="gRNAr"
+     misc_bind       complement(4490..4491)
+                     /note="gRNAr"
+     misc_bind       complement(4477..4478)
+                     /note="gRNAr"
+     misc_bind       complement(4476..4477)
+                     /note="gRNAr"
+     misc_bind       complement(4473..4474)
+                     /note="gRNAr"
+     misc_bind       complement(4472..4473)
+                     /note="gRNAr"
+     misc_bind       complement(4423..4424)
+                     /note="gRNAr"
+     misc_bind       complement(4422..4423)
+                     /note="gRNAr"
+     misc_bind       complement(4404..4405)
+                     /note="gRNAr"
+     misc_bind       complement(4295..4296)
+                     /note="gRNAr"
+     misc_bind       complement(4262..4263)
+                     /note="gRNAr"
+     misc_bind       complement(4254..4255)
+                     /note="gRNAr"
+     misc_bind       complement(4253..4254)
+                     /note="gRNAr"
+     misc_bind       complement(4252..4253)
+                     /note="gRNAr"
+     misc_bind       complement(4219..4220)
+                     /note="gRNAr"
+     misc_bind       complement(4155..4156)
+                     /note="gRNAr"
+     misc_bind       complement(4154..4155)
+                     /note="gRNAr"
+     misc_bind       complement(4153..4154)
+                     /note="gRNAr"
+     misc_bind       complement(4152..4153)
+                     /note="gRNAr"
+     misc_bind       complement(4075..4076)
+                     /note="gRNAr"
+     misc_bind       complement(4053..4054)
+                     /note="gRNAr"
+     misc_bind       complement(4052..4053)
+                     /note="gRNAr"
+     misc_bind       complement(4036..4037)
+                     /note="gRNAr"
+     misc_bind       complement(3989..3990)
+                     /note="gRNAr"
+     misc_bind       complement(3962..3963)
+                     /note="gRNAr"
+     misc_bind       complement(3927..3928)
+                     /note="gRNAr"
+     misc_bind       complement(3918..3919)
+                     /note="gRNAr"
+     misc_bind       complement(3893..3894)
+                     /note="gRNAr"
+     misc_bind       complement(3850..3851)
+                     /note="gRNAr"
+     misc_bind       complement(3835..3836)
+                     /note="gRNAr"
+     misc_bind       complement(3751..3752)
+                     /note="gRNAr"
+     misc_bind       complement(3700..3701)
+                     /note="gRNAr"
+     misc_bind       complement(3612..3613)
+                     /note="gRNAr"
+     misc_bind       complement(3569..3570)
+                     /note="gRNAr"
+     misc_bind       complement(3537..3538)
+                     /note="gRNAr"
+     misc_bind       complement(3536..3537)
+                     /note="gRNAr"
+     misc_bind       complement(3531..3532)
+                     /note="gRNAr"
+     misc_bind       complement(3472..3473)
+                     /note="gRNAr"
+     misc_bind       complement(3463..3464)
+                     /note="gRNAr"
+     misc_bind       complement(3408..3409)
+                     /note="gRNAr"
+     misc_bind       complement(3389..3390)
+                     /note="gRNAr"
+     misc_bind       complement(3388..3389)
+                     /note="gRNAr"
+     misc_bind       complement(3365..3366)
+                     /note="gRNAr"
+     misc_bind       complement(3364..3365)
+                     /note="gRNAr"
+     misc_bind       complement(3333..3334)
+                     /note="gRNAr"
+     misc_bind       complement(3332..3333)
+                     /note="gRNAr"
+     misc_bind       complement(3328..3329)
+                     /note="gRNAr"
+     misc_bind       complement(3327..3328)
+                     /note="gRNAr"
+     misc_bind       complement(3322..3323)
+                     /note="gRNAr"
+     misc_bind       complement(3312..3313)
+                     /note="gRNAr"
+     misc_bind       complement(3311..3312)
+                     /note="gRNAr"
+     misc_bind       complement(3306..3307)
+                     /note="gRNAr"
+     misc_bind       complement(3298..3299)
+                     /note="gRNAr"
+     misc_bind       complement(3285..3286)
+                     /note="gRNAr"
+     misc_bind       complement(3284..3285)
+                     /note="gRNAr"
+     misc_bind       complement(3233..3234)
+                     /note="gRNAr"
+     misc_bind       complement(3225..3226)
+                     /note="gRNAr"
+     misc_bind       complement(3224..3225)
+                     /note="gRNAr"
+     misc_bind       complement(3207..3208)
+                     /note="gRNAr"
+     misc_bind       complement(2919..2920)
+                     /note="gRNAr"
+     misc_bind       complement(2913..2914)
+                     /note="gRNAr"
+     misc_bind       complement(2912..2913)
+                     /note="gRNAr"
+     misc_bind       complement(2902..2903)
+                     /note="gRNAr"
+     misc_bind       complement(2893..2894)
+                     /note="gRNAr"
+     misc_bind       complement(2801..2802)
+                     /note="gRNAr"
+     misc_bind       complement(2800..2801)
+                     /note="gRNAr"
+     misc_bind       complement(2799..2800)
+                     /note="gRNAr"
+     misc_bind       complement(2717..2718)
+                     /note="gRNAr"
+     misc_bind       complement(2674..2675)
+                     /note="gRNAr"
+     misc_bind       complement(2671..2672)
+                     /note="gRNAr"
+     misc_bind       complement(2670..2671)
+                     /note="gRNAr"
+     misc_bind       complement(2654..2655)
+                     /note="gRNAr"
+     misc_bind       complement(2645..2646)
+                     /note="gRNAr"
+     misc_bind       complement(2631..2632)
+                     /note="gRNAr"
+     misc_bind       complement(2630..2631)
+                     /note="gRNAr"
+     misc_bind       complement(2622..2623)
+                     /note="gRNAr"
+     misc_bind       complement(2614..2615)
+                     /note="gRNAr"
+     misc_bind       complement(2613..2614)
+                     /note="gRNAr"
+     misc_bind       complement(2612..2613)
+                     /note="gRNAr"
+     misc_bind       complement(2606..2607)
+                     /note="gRNAr"
+     misc_bind       complement(2605..2606)
+                     /note="gRNAr"
+     misc_bind       complement(2586..2587)
+                     /note="gRNAr"
+     misc_bind       complement(2585..2586)
+                     /note="gRNAr"
+     misc_bind       complement(2572..2573)
+                     /note="gRNAr"
+     misc_bind       complement(2556..2557)
+                     /note="gRNAr"
+     misc_bind       complement(2544..2545)
+                     /note="gRNAr"
+     misc_bind       complement(2505..2506)
+                     /note="gRNAr"
+     misc_bind       complement(2494..2495)
+                     /note="gRNAr"
+     misc_bind       complement(2480..2481)
+                     /note="gRNAr"
+     misc_bind       complement(2454..2455)
+                     /note="gRNAr"
+     misc_bind       complement(2453..2454)
+                     /note="gRNAr"
+     misc_bind       complement(2360..2361)
+                     /note="gRNAr"
+     misc_bind       complement(2062..2063)
+                     /note="gRNAr"
+     misc_bind       complement(2049..2050)
+                     /note="gRNAr"
+     misc_bind       complement(2046..2047)
+                     /note="gRNAr"
+     misc_bind       complement(1962..1963)
+                     /note="gRNAr"
+     misc_bind       complement(1905..1906)
+                     /note="gRNAr"
+     misc_bind       complement(1791..1792)
+                     /note="gRNAr"
+     misc_bind       complement(1689..1690)
+                     /note="gRNAr"
+     misc_bind       complement(1644..1645)
+                     /note="gRNAr"
+     misc_bind       complement(1332..1333)
+                     /note="gRNAr"
+     misc_bind       complement(1232..1233)
+                     /note="gRNAr"
+     misc_bind       complement(1068..1069)
+                     /note="gRNAr"
+     misc_bind       complement(1038..1039)
+                     /note="gRNAr"
+     misc_bind       complement(1026..1027)
+                     /note="gRNAr"
+     misc_bind       complement(991..992)
+                     /note="gRNAr"
+     misc_bind       complement(980..981)
+                     /note="gRNAr"
+     misc_bind       complement(767..768)
+                     /note="gRNAr"
+     misc_bind       complement(753..754)
+                     /note="gRNAr"
+     misc_bind       complement(744..745)
+                     /note="gRNAr"
+     misc_bind       complement(696..697)
+                     /note="gRNAr"
+     misc_bind       complement(685..686)
+                     /note="gRNAr"
+     misc_bind       complement(680..681)
+                     /note="gRNAr"
+     misc_bind       complement(679..680)
+                     /note="gRNAr"
+     misc_bind       complement(668..669)
+                     /note="gRNAr"
+     misc_bind       complement(627..628)
+                     /note="gRNAr"
+     misc_bind       complement(626..627)
+                     /note="gRNAr"
+     misc_bind       complement(619..620)
+                     /note="gRNAr"
+     misc_bind       complement(618..619)
+                     /note="gRNAr"
+     misc_bind       complement(603..604)
+                     /note="gRNAr"
+     misc_bind       complement(570..571)
+                     /note="gRNAr"
+     misc_bind       complement(525..526)
+                     /note="gRNAr"
+     misc_bind       complement(489..490)
+                     /note="gRNAr"
+     misc_bind       complement(488..489)
+                     /note="gRNAr"
+     misc_bind       complement(390..391)
+                     /note="gRNAr"
+     misc_bind       complement(347..348)
+                     /note="gRNAr"
+     misc_bind       complement(321..322)
+                     /note="gRNAr"
+     misc_bind       complement(294..295)
+                     /note="gRNAr"
+     misc_bind       complement(293..294)
+                     /note="gRNAr"
+     misc_bind       complement(292..293)
+                     /note="gRNAr"
+     misc_bind       complement(261..262)
+                     /note="gRNAr"
+     misc_bind       complement(198..199)
+                     /note="gRNAr"
+     misc_bind       complement(197..198)
+                     /note="gRNAr"
+     misc_bind       complement(181..182)
+                     /note="gRNAr"
+     misc_bind       complement(178..179)
+                     /note="gRNAr"
+     misc_bind       complement(64..65)
+                     /note="gRNAr"
+ORIGIN
+        1 atggggagag gaagagtgca actgaagaga attgagaaca agatcaatcg acaagtcacc 
+       61 ttctcaaaaa ggcgatctgg gttgctcaag aaagctcatg agatctctgt gctttgtgat 
+      121 gctgaggttg gtttaattgt tttttctaca aaaggcaaac tctttgagta ttccaccgat 
+      181 tcttggtacg tcccttgcta tttattcagt gtttgcaatt aatatctttt gtgtactttt 
+      241 actatatgct ctactccgtt ttctcttctt gatctttagt tctatacccc tatttcttga 
+      301 taatttaata gttttccttt tcttttttaa atttctcttc tccacattct tttgattttt 
+      361 cagatcttcg tttttcgttg ttttccttca attctcttcg tttgattggt tgacgtttat 
+      421 gttctataaa ctcgctattt cttgactgca tgcatagctt attaaatttt cgagggctta 
+      481 aacccattct ttctcgtttt gtttctgaaa gaagcattgc cataacagat ctatttgaaa 
+      541 acaagaatag tgcagaatta taagccaaaa taatacttgt gcttctcttt tgttactcct 
+      601 tatgtttttc aacccttttg cccttttttt ttttacgatc tacgtagctt tgatctgata 
+      661 tgccttaatt actcccacac caacacatca cctaattatt taggaaaagc ttaagcaagt 
+      721 ggtactactt gaatacttcc atgcgcacct tagacaactg gcctagggaa gtgtagaaac 
+      781 aaaaataacg tacgtagaac tggaacagaa gtcatttcag ttacagaaag caactatgtt 
+      841 tatgcgaggc taattaatct gtgtatttct cttttagtat ttaactaagt acttgaatca 
+      901 tgtaaaggca aaattaaagt ctctaataaa actctgcaat aagtatgatg tcaaatatag 
+      961 tcttgttttt taagccaagt actatccatt taacttttaa aggcacgatg tactcatggt 
+     1021 ccagtggctc agccttttac acaatagttt tttttgtatt taccgggggt atgtggggag 
+     1081 ctacaagcat gaactaaaag atcaaatact taatcaaaca agttaatttc atggagagta 
+     1141 tatagcttta gattataaca agagaaatga actttattat atgagtttag agttatgaac 
+     1201 atttaacttt tgcaatggag ggaaaaccta tttatgcaaa caatatgaaa ttaagcttaa 
+     1261 ctaattatca acttaactat tagaagatac aagttcagca gctattcatg ttttttttaa 
+     1321 aactcgccgt tcatatctgt ggattttttt tttgggggnn nnnnnnnnnn nnnnnnnnnn 
+     1381 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     1441 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     1501 nnnnnnnnnn nnnnnnnnaa ttgggggggg gggttagaga aacttatatg acaaacaagt 
+     1561 ttttataacg atctcaacnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nngcaaaaat 
+     1621 tgcattctaa atactcatcc gtctcaatta agatgtaatt tttttgtttg agcatgatat 
+     1681 tatcctacag atttaacttt ctatagttac atgagagtgc aaaatctata tattggtaac 
+     1741 ttcttttaga gaattcaaat ctttttaaca taaaaagggt ctacgccttt taatattgca 
+     1801 aaagcattga attgagttga tattctggga tgattctaaa tgtaaagtaa attattcatt 
+     1861 aagactatag tgctagtagt aacatgtgta gaaaatcttc ctttctattt gtctaatctt 
+     1921 cttataattc ttcttttatg tattcatttc tcatttcctt gtttcgcatt ctacgcttta 
+     1981 atatagcaca ttgataaatt tctgagaagg aagagaatat gatcaagcat ggtttattaa 
+     2041 ccacctgaaa tatattcctc taactcannn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     2101 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     2161 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     2221 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     2281 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     2341 nnnnnntatt ttaaccgtct aacatttctt ctcgtgttgt cgtatatgtt gttagggttt 
+     2401 tattctctcg cttgatttat agctagtttt cttttgatac tttgtttccc tttcgaaaaa 
+     2461 aatctcatat tattccttaa ttttataacc aagcacgatc ctttgaggat agaaaggctt 
+     2521 gttttttcgg ctgtttctcc ttagtcatct ccttttcatt ttctctcctt ttcttgaagc 
+     2581 cctagggcgg atgacaggac ccagttcccc aacttaccat gtagcccgag ttctggggac 
+     2641 ctttgtaacc taactcgcgt tgttccctcc taattgcaac atactctagt tgattgtttg 
+     2701 agtttttgat tccttttttt cttttcgacg tctttgtgct tctaaatttt acatcatgtt 
+     2761 cttgcaactt ttgagtggtc tgtgtatata ttgcccctaa caattttagg ctgtattttt 
+     2821 gtgtattttt tgtatgacaa atcttctaga gtctagatat ataggggcat tttcatagaa 
+     2881 aaattaacca tattatccaa tgattaccca tcaccaagca agggacaaag tttttatcat 
+     2941 agatttagtg nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     3001 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     3061 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     3121 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     3181 nnnnnnnnaa ttttcttatg tccaaacgag ctcttagtcc ctaatatcca aaagaattta 
+     3241 agttatatac attgttctta acttaatcaa taatatctcc cgatattgtt ttccattact 
+     3301 cctatcccaa ctctatccga tcccttccca aaagaaaaaa aaagaaaaaa gaaggggacc 
+     3361 cgtagggaat atttcaaagt cgccctaggt ttttaaggta agccaactgt aagatatttt 
+     3421 tgtttgggta ggtaaaagaa ctaggaacaa aaatggacct taatttccga atgatggtgg 
+     3481 gaacaacatt ttgtttgttt ggaatctagt taatggtata cttttcctgg cccttggaaa 
+     3541 caatggcatc atgaaacgat tttccttagg gaacatactg gaaatatagt gtatttgcag 
+     3601 aaaataccat ggataagtgc gtaaatgaac attagaatga tggtgaatca tgctctgaac 
+     3661 gaatgaggag catgaatagt gacaagtgac aactccgctg aagaattgga cgacattgca 
+     3721 aatatctaag ggtgtgacgt agtggccagt aggatagttg taaaatttaa agataaaggt 
+     3781 tcaaatcttg atggggacaa aaaaatatta gataatttct ttcaatttgc ctaagcattg 
+     3841 attgccaaca ttgtctagta tctctgcaag tagaaggtgt tagatatccg gtgaaatagt 
+     3901 cgtgtgcgct ggcctgggac accactgatg caaaaagaag tttaacactc tattatccag 
+     3961 aattttagta ttttcatttt gaaccaatat cttgagaact ttgttacaca aatatttgct 
+     4021 tttataacaa cctctatcgt agattaccca attctgtata taattctcac cttttctttt 
+     4081 aaatcacggt caaatgcatt aaatctttta ctgatataaa ttttcaaatc gatggtctta 
+     4141 ttattacccc ctctttttta ttctggtatc agcatggaaa ggattcttga aaggtatgaa 
+     4201 agatactcat atgccgagag gcagcttact gctactgatc atgaaacccc ggtatgccta 
+     4261 agtcttgata agtttttagt attttgcttc ctatagtgga cttaggtatc aaaatttggg 
+     4321 agaacttaat tttgtgcagg ggagctggac tttggaacat gctaagctta aggcaagact 
+     4381 tgaggttttg caaagaaacc aaaggtatac tacattccct acagtggtca ataaatgtat 
+     4441 ttgatattgt ttggaaaaat aataatcccg cccaggaata atatccacga taaataacaa 
+     4501 taacacaaga gagtaataaa gacatcaaat cttttaacnn nnnnnnnnnn nnnnnnnnnn 
+     4561 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     4621 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     4681 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     4741 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     4801 nnnnnnnnnn nnnnnnnnnt gtattaatct cctccactta tttccaaact nnnnnnnnnn 
+     4861 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     4921 nnnnnnnnnn nnnnntaatt ttaacttttc tttttcattc caagtcttga tctcaatctc 
+     4981 tgaaaatctt caaacttgnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5041 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5101 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5161 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5221 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5281 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5341 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5401 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5461 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5521 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5581 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5641 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5701 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5761 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5821 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5881 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     5941 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     6001 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     6061 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     6121 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     6181 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     6241 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     6301 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     6361 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     6421 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnc tatcagcaaa 
+     6481 gagacaacat aaaaaatcaa aagtagtaac ttcttctatg gcctatagag ctcctgaata 
+     6541 ctcctcatcc tttgcggttg ttcatttgaa ctttcttgag aagaaggaga tgcaacattg 
+     6601 gcggagaaag aggtgaattt gtatcctgca caggttgcac ggtctttgaa tctttttcat 
+     6661 caccaaaata tggaagaaaa tcatgtgaag tttcttcctg agcttccaaa ttccatgcta 
+     6721 attcttcatc aagttcaaca ttgcgactta ccaccacttt gccgctactt gggatgtata 
+     6781 acttgtagcc tttttgaact cgtatcatag tcaacaacta catgcttgan nnnnnnnnnn 
+     6841 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     6901 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     6961 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     7021 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     7081 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     7141 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     7201 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     7261 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     7321 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     7381 nnnnnnnnnn nnaagttgga gcgacatagt tgctcttgac atggactcct tcggaaaact 
+     7441 cctccttgca tgttttccaa gaagacaagc ttcacatgtt nnnnnnnnnn nnnnnnnnnn 
+     7501 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     7561 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     7621 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     7681 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     7741 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     7801 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     7861 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     7921 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     7981 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     8041 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     8101 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     8161 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     8221 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     8281 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     8341 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     8401 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     8461 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     8521 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     8581 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     8641 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     8701 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     8761 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     8821 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnaat tatggggggg 
+     8881 tactgaaaag acagcatatc attatttgtc agnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     8941 nnnaatcacg cccaggaata atatccacga taaataataa taacacaaga gagtaacaaa 
+     9001 gacaccaaat cttttaacgn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     9061 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     9121 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     9181 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     9241 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnt atctcttcca 
+     9301 cttatttcca aactttggct ccaagaaaga gttgccagcc aagttttatt tcacaagaac 
+     9361 atgcctattt tgatggaatg gaccccacag atatatcaag tcacttctag aaaatgaact 
+     9421 ggcccgtctt aataattaat ttacaggcat tatgcaggag aagatttgga cacattaagt 
+     9481 atgaaagagc tgcagaatct tgagcaccag ctcgattctg ctttaaagca cattcgatca 
+     9541 agaaaggtag ataagcacac agcaatcata tctatagttt taaacatatc tggagtttgt 
+     9601 tctagaaacc tttttaattg aaaaaccttt tgcttgtaga atcacttgat gcatgaatcc 
+     9661 atttctgagc tgcaaaagaa ggtgagaagc ttatgttttt aagagattaa ttttcttaat 
+     9721 ctctttgaaa tgcaatattg ggtaatctca ttaacataat tcactggttt caagctactg 
+     9781 tttatgatca acattccaat ttctataaaa ttaaaatacg gaaattttat tgcatgatca 
+     9841 gnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     9901 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn 
+     9961 nnnnnnnnnn nnnnnnnnnn ngtaagttgt gctgtaacat tccttttgga tggcacagga 
+    10021 caaggcattg caagagcaaa acaacaagct ctcgaagcag gtagtaatta ttttttaaaa 
+    10081 tgtctacatc tcact
+//

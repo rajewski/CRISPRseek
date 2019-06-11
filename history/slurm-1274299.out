@@ -1,0 +1,164 @@
+Bioconductor version 3.5 (BiocInstaller 1.26.1), ?biocLite for help
+A newer version of Bioconductor is available for this version of R,
+  ?BiocUpgrade for help
+BioC_mirror: https://bioconductor.org
+Using Bioconductor 3.5 (BiocInstaller 1.26.1), R 3.4.0 (2017-04-21).
+Installing package(s) 'CRISPRseek'
+trying URL 'https://bioconductor.org/packages/3.5/bioc/src/contrib/CRISPRseek_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 257303 bytes (251 KB)
+==================================================
+downloaded 251 KB
+
+* installing *source* package 'CRISPRseek' ...
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (CRISPRseek)
+
+The downloaded source packages are in
+	'/tmp/RtmpJTyTYy/downloaded_packages'
+installation path not writeable, unable to update packages: AnnotationForge,
+  AnnotationHub, ArrayExpress, BH, BSgenome, BiocGenerics, BiocStyle, CNEr,
+  ChIPpeakAnno, ChIPseeker, ChemmineR, DiagrammeR, Formula, GGally, GSEABase,
+  GenomeInfoDb, GenomicFeatures, GenomicRanges, HSAUR, IRanges, KEGGREST,
+  KEGGgraph, MALDIquant, Matrix, OrganismDbi, R.utils, RMySQL, Rcpp, RcppAnnoy,
+  RcppArmadillo, RefManageR, Rmpi, Rsubread, S4Vectors, SRAdb, ShortRead,
+  SpatialNP, SummarizedExperiment, TFBSTools, TTR, VGAM, ade4, adegenet, ape,
+  arfima, backports, ballgown, bbmle, bibtex, bigmemory, bookdown, boot, car,
+  checkmate, chron, circular, clusterSim, coin, commonmark, cowplot, crayon,
+  cubature, curl, data.table, deSolve, desc, devtools, doParallel, doSNOW,
+  dplyr, effects, eiR, ensembldb, fastcluster, fda, fingerprint, future,
+  geoRglm, ggpubr, ggrepel, ggsci, ggseqlogo, ggsignif, git2r, glmnet, globals,
+  glue, gridExtra, gridSVG, haven, hisse, httpuv, httr, igraph, irlba,
+  knitcitations, knitr, knitrBootstrap, lambda.r, lava, lazyeval, limma, lme4,
+  lubridate, mboost, memuse, methylKit, mgcv, mice, modelr, multcomp, oligo,
+  openssl, optparse, pathview, pbmcapply, phangorn, phytools, plm, plot3D,
+  plotrix, poweRlaw, proxy, pryr, pscl, psych, purrr, qgraph, quantmod,
+  quantreg, rJava, randomForestSRC, raster, regioneR, reshape, rgeos, rlang,
+  rmarkdown, robustbase, rstudioapi, rtracklayer, rvcheck, sandwich, scales,
+  segmented, seqinr, shape, shiny, sp, spam, spdep, stabs, statnet.common,
+  stringdist, subplex, svd, systemPipeRdata, tibble, tidyr, tidyverse,
+  triangle, vegan, visNetwork, withr, xts
+BioC_mirror: https://bioconductor.org
+Using Bioconductor 3.5 (BiocInstaller 1.26.1), R 3.4.0 (2017-04-21).
+Installing package(s) 'GenomicFeatures'
+trying URL 'https://bioconductor.org/packages/3.5/bioc/src/contrib/GenomicFeatures_1.28.5.tar.gz'
+Content type 'application/x-gzip' length 836011 bytes (816 KB)
+==================================================
+downloaded 816 KB
+
+* installing *source* package 'GenomicFeatures' ...
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (GenomicFeatures)
+
+The downloaded source packages are in
+	'/tmp/RtmpJTyTYy/downloaded_packages'
+installation path not writeable, unable to update packages: AnnotationForge,
+  AnnotationHub, ArrayExpress, BH, BSgenome, BiocGenerics, BiocStyle, CNEr,
+  ChIPpeakAnno, ChIPseeker, ChemmineR, DiagrammeR, Formula, GGally, GSEABase,
+  GenomeInfoDb, GenomicFeatures, GenomicRanges, HSAUR, IRanges, KEGGREST,
+  KEGGgraph, MALDIquant, Matrix, OrganismDbi, R.utils, RMySQL, Rcpp, RcppAnnoy,
+  RcppArmadillo, RefManageR, Rmpi, Rsubread, S4Vectors, SRAdb, ShortRead,
+  SpatialNP, SummarizedExperiment, TFBSTools, TTR, VGAM, ade4, adegenet, ape,
+  arfima, backports, ballgown, bbmle, bibtex, bigmemory, bookdown, boot, car,
+  checkmate, chron, circular, clusterSim, coin, commonmark, cowplot, crayon,
+  cubature, curl, data.table, deSolve, desc, devtools, doParallel, doSNOW,
+  dplyr, effects, eiR, ensembldb, fastcluster, fda, fingerprint, future,
+  geoRglm, ggpubr, ggrepel, ggsci, ggseqlogo, ggsignif, git2r, glmnet, globals,
+  glue, gridExtra, gridSVG, haven, hisse, httpuv, httr, igraph, irlba,
+  knitcitations, knitr, knitrBootstrap, lambda.r, lava, lazyeval, limma, lme4,
+  lubridate, mboost, memuse, methylKit, mgcv, mice, modelr, multcomp, oligo,
+  openssl, optparse, pathview, pbmcapply, phangorn, phytools, plm, plot3D,
+  plotrix, poweRlaw, proxy, pryr, pscl, psych, purrr, qgraph, quantmod,
+  quantreg, rJava, randomForestSRC, raster, regioneR, reshape, rgeos, rlang,
+  rmarkdown, robustbase, rstudioapi, rtracklayer, rvcheck, sandwich, scales,
+  segmented, seqinr, shape, shiny, sp, spam, spdep, stabs, statnet.common,
+  stringdist, subplex, svd, systemPipeRdata, tibble, tidyr, tidyverse,
+  triangle, vegan, visNetwork, withr, xts
+Installing package into '/rhome/arajewski/R/x86_64-pc-linux-gnu-library/3.4'
+(as 'lib' is unspecified)
+inferring 'repos = NULL' from 'pkgs'
+Warning: invalid package '/rhome/arajewski/shared/Nobtusifolia/Genome_Files/BSgenome.Nobt.Masked.MPGICE.1.0_1.0.tar.gz'
+Error: ERROR: no packages specified
+Warning message:
+In install.packages("~/shared/Nobtusifolia/Genome_Files/BSgenome.Nobt.Masked.MPGICE.1.0_1.0.tar.gz") :
+  installation of package '/rhome/arajewski/shared/Nobtusifolia/Genome_Files/BSgenome.Nobt.Masked.MPGICE.1.0_1.0.tar.gz' had non-zero exit status
+Loading required package: BiocGenerics
+Loading required package: methods
+Loading required package: parallel
+
+Attaching package: 'BiocGenerics'
+
+The following objects are masked from 'package:parallel':
+
+    clusterApply, clusterApplyLB, clusterCall, clusterEvalQ,
+    clusterExport, clusterMap, parApply, parCapply, parLapply,
+    parLapplyLB, parRapply, parSapply, parSapplyLB
+
+The following objects are masked from 'package:stats':
+
+    IQR, mad, sd, var, xtabs
+
+The following objects are masked from 'package:base':
+
+    Filter, Find, Map, Position, Reduce, anyDuplicated, append,
+    as.data.frame, cbind, colMeans, colSums, colnames, do.call,
+    duplicated, eval, evalq, get, grep, grepl, intersect, is.unsorted,
+    lapply, lengths, mapply, match, mget, order, paste, pmax, pmax.int,
+    pmin, pmin.int, rank, rbind, rowMeans, rowSums, rownames, sapply,
+    setdiff, sort, table, tapply, union, unique, unsplit, which,
+    which.max, which.min
+
+Loading required package: Biostrings
+Loading required package: S4Vectors
+Loading required package: stats4
+
+Attaching package: 'S4Vectors'
+
+The following object is masked from 'package:base':
+
+    expand.grid
+
+Loading required package: IRanges
+Loading required package: XVector
+
+Attaching package: 'Biostrings'
+
+The following object is masked from 'package:base':
+
+    strsplit
+
+Loading required package: GenomeInfoDb
+Loading required package: GenomicRanges
+Loading required package: AnnotationDbi
+Loading required package: Biobase
+Welcome to Bioconductor
+
+    Vignettes contain introductory material; view with
+    'browseVignettes()'. To cite Bioconductor, see
+    'citation("Biobase")', and for packages 'citation("pkgname")'.
+
+Loading required package: BSgenome
+Loading required package: rtracklayer
+Validating input ...
+Searching for gRNAs ...
+>>> Finding all hits in sequence scaffold1 ...
+>>> DONE searching
+>>> Finding all hits in sequence scaffold2 ...
+>>> DONE searching
+>>> Finding all hits in sequence scaffold3 ...
+>>> DONE searching
+>>> Finding all hits in sequence scaffold4 ...
+slurmstepd-i17: error: *** JOB 1274299 ON i17 CANCELLED AT 2017-11-13T18:05:52 ***

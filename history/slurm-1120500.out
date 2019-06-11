@@ -1,0 +1,146 @@
+Bioconductor version 3.5 (BiocInstaller 1.26.0), ?biocLite for help
+Bioconductor version 3.5 (BiocInstaller 1.26.0), ?biocLite for help
+BioC_mirror: https://bioconductor.org
+Using Bioconductor 3.5 (BiocInstaller 1.26.0), R 3.4.0 (2017-04-21).
+Installing package(s) 'CRISPRseek'
+trying URL 'https://bioconductor.org/packages/3.5/bioc/src/contrib/CRISPRseek_1.16.0.tar.gz'
+Content type 'application/x-gzip' length 257303 bytes (251 KB)
+==================================================
+downloaded 251 KB
+
+* installing *source* package 'CRISPRseek' ...
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (CRISPRseek)
+
+The downloaded source packages are in
+	'/tmp/RtmpZm6VWO/downloaded_packages'
+installation path not writeable, unable to update packages: AnnotationForge,
+  BH, BSgenome, BiocInstaller, BiocStyle, CNEr, ChIPseeker, ChemmineR,
+  DiagrammeR, Formula, GGally, GSEABase, HSAUR, IRanges, KEGGREST, KEGGgraph,
+  MALDIquant, Matrix, RMySQL, Rcpp, RcppAnnoy, RcppArmadillo, RefManageR, Rmpi,
+  Rsubread, ShortRead, TFBSTools, TTR, VGAM, ade4, arfima, ballgown, bibtex,
+  bookdown, boot, car, checkmate, circular, coin, commonmark, cowplot,
+  cubature, curl, deSolve, desc, devtools, dplyr, eiR, ensembldb, fastcluster,
+  fda, future, ggpubr, ggseqlogo, ggsignif, git2r, globals, haven, hisse,
+  httpuv, httr, igraph, knitcitations, knitr, knitrBootstrap, mboost,
+  methylKit, mgcv, modelr, oligo, optparse, pathview, pbmcapply, phytools,
+  plot3D, plotrix, poweRlaw, pscl, purrr, qgraph, randomForestSRC, regioneR,
+  reshape, rlang, rvcheck, sandwich, scales, seqinr, shape, shiny, sp, spam,
+  spdep, stabs, statnet.common, stringdist, subplex, systemPipeRdata, tibble,
+  tidyr, vegan, visNetwork, withr, xts
+Warning message:
+'BiocInstaller' update failed, using version 1.26.0 
+Bioconductor version 3.5 (BiocInstaller 1.26.0), ?biocLite for help
+BioC_mirror: https://bioconductor.org
+Using Bioconductor 3.5 (BiocInstaller 1.26.0), R 3.4.0 (2017-04-21).
+Installing package(s) 'GenomicFeatures'
+trying URL 'https://bioconductor.org/packages/3.5/bioc/src/contrib/GenomicFeatures_1.28.4.tar.gz'
+Content type 'application/x-gzip' length 834861 bytes (815 KB)
+==================================================
+downloaded 815 KB
+
+* installing *source* package 'GenomicFeatures' ...
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (GenomicFeatures)
+
+The downloaded source packages are in
+	'/tmp/RtmpZm6VWO/downloaded_packages'
+installation path not writeable, unable to update packages: AnnotationForge,
+  BH, BSgenome, BiocInstaller, BiocStyle, CNEr, ChIPseeker, ChemmineR,
+  DiagrammeR, Formula, GGally, GSEABase, HSAUR, IRanges, KEGGREST, KEGGgraph,
+  MALDIquant, Matrix, RMySQL, Rcpp, RcppAnnoy, RcppArmadillo, RefManageR, Rmpi,
+  Rsubread, ShortRead, TFBSTools, TTR, VGAM, ade4, arfima, ballgown, bibtex,
+  bookdown, boot, car, checkmate, circular, coin, commonmark, cowplot,
+  cubature, curl, deSolve, desc, devtools, dplyr, eiR, ensembldb, fastcluster,
+  fda, future, ggpubr, ggseqlogo, ggsignif, git2r, globals, haven, hisse,
+  httpuv, httr, igraph, knitcitations, knitr, knitrBootstrap, mboost,
+  methylKit, mgcv, modelr, oligo, optparse, pathview, pbmcapply, phytools,
+  plot3D, plotrix, poweRlaw, pscl, purrr, qgraph, randomForestSRC, regioneR,
+  reshape, rlang, rvcheck, sandwich, scales, seqinr, shape, shiny, sp, spam,
+  spdep, stabs, statnet.common, stringdist, subplex, systemPipeRdata, tibble,
+  tidyr, vegan, visNetwork, withr, xts
+Warning message:
+'BiocInstaller' update failed, using version 1.26.0 
+Installing package into '/rhome/arajewski/R/x86_64-pc-linux-gnu-library/3.4'
+(as 'lib' is unspecified)
+inferring 'repos = NULL' from 'pkgs'
+Warning: invalid package '/rhome/arajewski/shared/Nobtusifolia/Genome_Files/BSgenome.Nobt.Masked.MPGICE.1.0_1.0.tar.gz'
+Error: ERROR: no packages specified
+Warning message:
+In install.packages("~/shared/Nobtusifolia/Genome_Files/BSgenome.Nobt.Masked.MPGICE.1.0_1.0.tar.gz") :
+  installation of package '/rhome/arajewski/shared/Nobtusifolia/Genome_Files/BSgenome.Nobt.Masked.MPGICE.1.0_1.0.tar.gz' had non-zero exit status
+Loading required package: BiocGenerics
+Loading required package: methods
+Loading required package: parallel
+
+Attaching package: 'BiocGenerics'
+
+The following objects are masked from 'package:parallel':
+
+    clusterApply, clusterApplyLB, clusterCall, clusterEvalQ,
+    clusterExport, clusterMap, parApply, parCapply, parLapply,
+    parLapplyLB, parRapply, parSapply, parSapplyLB
+
+The following objects are masked from 'package:stats':
+
+    IQR, mad, sd, var, xtabs
+
+The following objects are masked from 'package:base':
+
+    Filter, Find, Map, Position, Reduce, anyDuplicated, append,
+    as.data.frame, cbind, colMeans, colSums, colnames, do.call,
+    duplicated, eval, evalq, get, grep, grepl, intersect, is.unsorted,
+    lapply, lengths, mapply, match, mget, order, paste, pmax, pmax.int,
+    pmin, pmin.int, rank, rbind, rowMeans, rowSums, rownames, sapply,
+    setdiff, sort, table, tapply, union, unique, unsplit, which,
+    which.max, which.min
+
+Loading required package: Biostrings
+Loading required package: S4Vectors
+Loading required package: stats4
+
+Attaching package: 'S4Vectors'
+
+The following object is masked from 'package:base':
+
+    expand.grid
+
+Loading required package: IRanges
+Loading required package: XVector
+
+Attaching package: 'Biostrings'
+
+The following object is masked from 'package:base':
+
+    strsplit
+
+Loading required package: GenomeInfoDb
+Loading required package: GenomicRanges
+Loading required package: AnnotationDbi
+Loading required package: Biobase
+Welcome to Bioconductor
+
+    Vignettes contain introductory material; view with
+    'browseVignettes()'. To cite Bioconductor, see
+    'citation("Biobase")', and for packages 'citation("pkgname")'.
+
+Loading required package: BSgenome
+Loading required package: rtracklayer
+Error in dbFileConnect(file) : 
+  DB file '~/shared/Nobtusifolia/Genome_Files/TxDb.Nobt.MPGICE.1.0' not found
+Calls: loadDb -> dbFileConnect
+Execution halted
